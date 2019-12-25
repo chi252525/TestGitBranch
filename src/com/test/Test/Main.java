@@ -9,6 +9,7 @@ public class Main {
 		System.out.println("Ver2新加的3");
 		System.out.println("Ver2新加的4");
 		System.out.println("刪除second commit");
+		System.out.println("新加5");
 		
 	}
 
